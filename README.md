@@ -6,7 +6,7 @@ sessions were done in a jupyter notebook. Numpy and pandas were covered at an
 introductory level.
 
 ```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+This is a red colored line
+This is a green colored line
+his is a purple colored line @@
 ```
