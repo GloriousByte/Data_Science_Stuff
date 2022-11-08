@@ -1,6 +1,0 @@
-fname,lname,mail
-Joe,Adjei,JA@JA.boo
-Ama,Baiden,AB@AB.boo
-Kofi,Adjei,KA@KA.boo
-Opare,Owusu,OO@OO.boo
-Josephine,Mensah,JM@JM.boo
