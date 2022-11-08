@@ -11,3 +11,15 @@ The files weren't saved/backed up.
 ```diff
 https://gloriousbyte.github.io/Data_Science_Stuff/Revsing_Python_WIth_Jupyter/
 ```
+
+#### python_with_Corey
+contains python files with code on file handling and regular expressions.
+</br>
+NB: more types of regular expression were covered but either deleted from the
+file after practising/ not bothered with at all because the concepts were pretty
+straight forward easy to grasp.
+
+##### Link to Corey's youtube channel if interested:
+```diff
+https://www.youtube.com/c/Coreyms
+```
