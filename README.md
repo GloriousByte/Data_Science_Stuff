@@ -17,7 +17,7 @@ contains python files with code on file handling and regular expressions.
 </br>
 NB: more types of regular expression were covered but either deleted from the
 file after practising/ not bothered with at all because the concepts were pretty
-straight forward easy to grasp.
+straight and forward easy to grasp.
 
 ##### Link to Corey's youtube channel if interested:
 ```diff
