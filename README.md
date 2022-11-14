@@ -18,3 +18,7 @@ contains python files with code on file handling and regular expressions.
 ```diff
 https://www.youtube.com/c/Coreyms
 ```
+#### pandas_tuts
+contains practise sessions on pandas
+</br>
+
