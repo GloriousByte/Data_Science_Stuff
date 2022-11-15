@@ -11,3 +11,7 @@ matches = myPattern.finditer(emailss)
 
 for match in matches:
     print(match)
+
+hello = 'hellooo'
+boo = list(hello)
+print(boo)
