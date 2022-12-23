@@ -1,0 +1,181 @@
+{"folders":[
+        {
+            "name": ".tmc",
+            "path": ".tmc"
+        },
+        {
+            "name": "part01-e01_hello_world",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e01_hello_world"
+        },
+        {
+            "name": "part01-e02_compliment",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e02_compliment"
+        },
+        {
+            "name": "part01-e03_multiplication",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e03_multiplication"
+        },
+        {
+            "name": "part01-e04_multiplication_table",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e04_multiplication_table"
+        },
+        {
+            "name": "part01-e05_two_dice",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e05_two_dice"
+        },
+        {
+            "name": "part01-e06_triple_square",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e06_triple_square"
+        },
+        {
+            "name": "part01-e07_areas_of_shapes",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e07_areas_of_shapes"
+        },
+        {
+            "name": "part01-e08_solve_quadratic",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e08_solve_quadratic"
+        },
+        {
+            "name": "part01-e09_merge",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e09_merge"
+        },
+        {
+            "name": "part01-e10_detect_ranges",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e10_detect_ranges"
+        },
+        {
+            "name": "part01-e11_interleave",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e11_interleave"
+        },
+        {
+            "name": "part01-e12_distinct_characters",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e12_distinct_characters"
+        },
+        {
+            "name": "part01-e13_reverse_dictionary",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e13_reverse_dictionary"
+        },
+        {
+            "name": "part01-e14_find_matching",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e14_find_matching"
+        },
+        {
+            "name": "part01-e15_two_dice_comprehension",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e15_two_dice_comprehension"
+        },
+        {
+            "name": "part01-e16_transform",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e16_transform"
+        },
+        {
+            "name": "part01-e17_positive_list",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e17_positive_list"
+        },
+        {
+            "name": "part01-e18_acronyms",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e18_acronyms"
+        },
+        {
+            "name": "part01-e19_sum_equation",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e19_sum_equation"
+        },
+        {
+            "name": "part01-e20_usemodule",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part01-e20_usemodule"
+        },
+        {
+            "name": "part02-e01_integers_in_brackets",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e01_integers_in_brackets"
+        },
+        {
+            "name": "part02-e02_file_listing",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e02_file_listing"
+        },
+        {
+            "name": "part02-e03_red_green_blue",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e03_red_green_blue"
+        },
+        {
+            "name": "part02-e04_word_frequencies",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e04_word_frequencies"
+        },
+        {
+            "name": "part02-e05_summary",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e05_summary"
+        },
+        {
+            "name": "part02-e06_file_count",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e06_file_count"
+        },
+        {
+            "name": "part02-e07_file_extensions",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e07_file_extensions"
+        },
+        {
+            "name": "part02-e08_prepend",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e08_prepend"
+        },
+        {
+            "name": "part02-e09_rational",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e09_rational"
+        },
+        {
+            "name": "part02-e10_extract_numbers",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e10_extract_numbers"
+        },
+        {
+            "name": "part02-e11_rows_and_columns",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e11_rows_and_columns"
+        },
+        {
+            "name": "part02-e12_row_and_column_vectors",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e12_row_and_column_vectors"
+        },
+        {
+            "name": "part02-e13_diamond",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e13_diamond"
+        },
+        {
+            "name": "part02-e14_vector_lengths",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e14_vector_lengths"
+        },
+        {
+            "name": "part02-e15_vector_angles",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e15_vector_angles"
+        },
+        {
+            "name": "part02-e16_multiplication_table_revisited",
+            "path": "../../../../../../.local/share/tmc/vscode/mooc-data-analysis-with-python-2022/part02-e16_multiplication_table_revisited"
+        }
+    ],"settings":{"explorer.decorations.colors":false,"files.autoSave":"onFocusChange","files.exclude":{
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/__pycache__": true,
+            "**/.available_points.json": true,
+            "**/.tmc_test_results.json": true,
+            "**/.tmcproject.yml": true,
+            "**/tmc": true,
+            "**/.settings": true,
+            "**/.tmcproject.json": true,
+            "**/.tmc.json": true,
+            "**/.tmc.lock": true,
+            "**/.tmc_test_results.hmac.sha256": true
+        },
+        "files.watcherExclude": {
+            "**/.dart_tool": true,
+            "**/.vscode/**": true,
+            "**/.tmc.json": true
+        },
+        "problems.decorations.enabled": false,
+        "workbench.editor.closeOnFileDelete": true,
+        "testMyCode.downloadOldSubmission": true,
+        "testMyCode.hideMetaFiles": true,
+        "testMyCode.updateExercisesAutomatically": true,
+        "explorer.decorations.badges": true,
+        "python.terminal.executeInFileDir": true
+    }
+}
