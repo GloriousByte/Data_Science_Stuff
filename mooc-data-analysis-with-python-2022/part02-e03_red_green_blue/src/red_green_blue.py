@@ -1,3 +1,7 @@
+import re
+import sys
+import numpy as np
+
 #!/usr/bin/env python3
 
 import re
@@ -18,14 +22,17 @@ def red_green_blue(filename="src/rgb.txt"):
 
 
     for key, string in enumerate(ls):
+      
+   
        if ls[key][-1] == "\n":
            ls[key] = ls[key][0:len(string)-1]
-    print(ls)
+ 
     return ls
 
 
 def main():
     hi = red_green_blue("rgb.txt")
-   
+    
+    print(hi)
 if __name__ == "__main__":
     main()
