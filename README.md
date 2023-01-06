@@ -22,3 +22,11 @@ https://www.youtube.com/c/Coreyms
 contains practise sessions on pandas
 </br>
 
+#### mooc-data...
+contains completed exercises for reference. The exercises are from the University
+of Helsinki's MOOC for data analysis using python.
+</br>
+
+##### Link to the MOOC site. (Highly recommended):
+```diff
+https://www.mooc.fi/en
