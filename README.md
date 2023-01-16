@@ -23,7 +23,7 @@ contains practise sessions on pandas
 </br>
 
 #### mooc-data...
-contains completed exercises for reference. The exercises are from the University
+contains my completed assignments for reference. The exercises are from the University
 of Helsinki's MOOC for data analysis using python.
 </br>
 
